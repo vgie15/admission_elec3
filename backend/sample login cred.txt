@@ -1,0 +1,18 @@
+Test Login Credentials
+
+Admin
+Username/Email: admin@test.com
+Password: admin123
+Access type: Full admin access
+
+Registrar/Staff
+Username/Email: registrar@test.com
+Password: registrar123
+Access type: Staff/registrar reporting access
+
+Student/User
+Username/Email: demo.ana@psu-ucc.test
+Password: Student123!
+Access type: Student portal access
+
+Note: The same student password, Student123!, is seeded for all demo.*@psu-ucc.test student accounts in database_schema.sql.
